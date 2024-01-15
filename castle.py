@@ -1,5 +1,5 @@
 '''
-Castle class that creates the castle object and the needed methods to traverse thorugh it
+Castle class that creates the castle object and the needed methods to traverse through it
 Author: Mehar Klair
 Date: 2023-04-06
 '''
